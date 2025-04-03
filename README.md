@@ -6,4 +6,7 @@ This repo will cover the things I've learned throughout my time doing CTF's and 
 - john the ripper
 - responder
 - evil-winrm
+- gobuster
 
+## Writeups so far:
+- HTB Archetype
